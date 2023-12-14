@@ -1,7 +1,14 @@
 # crystal-test
 
-First need to run
+# Technology and Frameworks used as given: 
+## Node JS
+## Express JS
+## MySQL
+
+# Run project
+
 ## npm install
+## node app.js
 
 # Endpoints:
 
